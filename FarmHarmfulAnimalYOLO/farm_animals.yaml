@@ -1,0 +1,21 @@
+path: ./FarmHarmfulAnimalYOLO
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Armadilles
+  1: Bear
+  2: Birds
+  3: Cow
+  4: Crocodile
+  5: Deer
+  6: Elephant
+  7: Goat
+  8: Horse
+  9: Jaguar
+  10: Monkey
+  11: Rabbit
+  12: Skunk
+  13: Tiger
+  14: Wild Boar
