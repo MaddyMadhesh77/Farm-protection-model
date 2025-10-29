@@ -1,7 +1,6 @@
 # ==========================
 # STEP 0: Install Packages
 # ==========================
-# pip install ultralytics scikit-learn seaborn matplotlib pandas
 
 import os
 import pandas as pd
